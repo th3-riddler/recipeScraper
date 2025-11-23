@@ -1,0 +1,6 @@
+recipe_scrapers
+flask
+flask-cors
+pillow
+requests
+python-dotenv
